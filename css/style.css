@@ -495,4 +495,7 @@ footer.button-footer {
 footer.button-footer a:hover {
     color: #f3a31e;
 }
+footer.button-footer .img-wrap img {
+    margin-right: 10px;
+}
 /* =========================================================FOOTER END */
