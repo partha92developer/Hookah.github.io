@@ -496,6 +496,7 @@ footer.button-footer a:hover {
     color: #f3a31e;
 }
 footer.button-footer .img-wrap img {
-    margin-right: 10px;
+    margin-left: 5px;
+	margin-right: 5px;
 }
 /* =========================================================FOOTER END */
