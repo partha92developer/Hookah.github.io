@@ -112,6 +112,9 @@
     .section-x3 .col-content p{
         margin-top: 20px!important;
     }
+    input.form-input {
+        padding: 10px 20px;
+    }
     /* section-x3 end */
 
     /* top-footer start */
