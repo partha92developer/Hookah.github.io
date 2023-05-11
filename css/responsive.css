@@ -74,29 +74,12 @@
     /* header end */
 
     /* section-x1 start */
-
-    .section-x1 h2::before {
-        width: 70px;
-        left: 40px;
-    }
-    .section-x1 h2::after {
-        width: 70px;
-        right: 40px;
-    }
     .section-x1 .row{
         row-gap: 20px;
     }
     /* section-x1 end */
 
     /* section-x2 start */
-    .section-x2 h2::before {
-        width: 70px;
-        left: 40px;
-    }
-    .section-x2 h2::after {
-        width: 70px;
-        right: 40px;
-    }
     .section-x2 .row{
         row-gap: 20px;
     }
