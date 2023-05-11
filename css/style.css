@@ -292,7 +292,7 @@ i.fa-sharp.fa-solid.fa-cart-shopping {
 .section-x1 h2::before {
     content: "";
     display: block;
-    width: 150px;
+    width: 30%;
     height: 1px;
     background: #f3a31e;
     left: 0;
@@ -302,7 +302,7 @@ i.fa-sharp.fa-solid.fa-cart-shopping {
 .section-x1 h2::after {
     content: "";
     display: block;
-    width: 150px;
+    width: 30%;
     height: 1px;
     background: #f3a31e;
     right: 0;
