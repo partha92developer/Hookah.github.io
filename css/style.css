@@ -420,7 +420,8 @@ form.form-wrap.subs-form {
 	width: 20%;
 	background-color: #f3a31e;
 	position: absolute;
-	bottom: -5px;
+	bottom: 0;
+	transform: translatey(10px);
 	left: 0;
 	transition: all 0.3s ease-in-out;
     background: linear-gradient(90deg, rgba(243,163,30,1) 25%, rgba(255,255,255,1) 25%);
