@@ -126,3 +126,18 @@
 
     /* button-footer end */
 }
+
+@media only screen and (max-width: 576px){
+    .section-x1 h2::before {
+        display: none; 
+    }
+    .section-x1 h2::after {
+        display: none;
+    }
+    .section-x2 h2::before {
+        display: none; 
+    }
+    .section-x2 h2::after {
+        display: none;
+    }
+}
